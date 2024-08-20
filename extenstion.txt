@@ -1,0 +1,2 @@
+extension :
+cors,jwt ,bcrypts,mongoose,cookie-parser,dotenv,
